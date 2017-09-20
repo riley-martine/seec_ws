@@ -1,0 +1,257 @@
+.navbar-inverse.nav-upper {
+  height: 50px;
+}
+.navbar-inverse.nav-upper ul {
+  float: right;
+  display: table;
+}
+.navbar-inverse.nav-upper .navbar-upper > li {
+  display: table-cell;
+  font-size: 14px;
+}
+.navbar-inverse.nav-upper .navbar-upper > li > a {
+  color: #777;
+}
+@media (min-width: 768px) {
+  .navbar.navbar-lower .navbar-nav {
+    margin-left: 100px;
+  }
+}
+
+.nav-upper {
+    text-align: center;
+}
+/* Show it is fixed to the top */
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+/*	min-height: 75rem; */
+	margin-bottom: 60px;
+	font-size: 20px;
+	padding-top: 70px;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	width: 100%;
+	margin: auto;
+}
+
+#imagesCarousel {
+	width: 70%;
+	height: 70%;
+	margin: 0 auto;
+	padding: 0;
+	margin-bottom: 70px;
+}
+
+#main {
+	display: flex;
+	flex-direction: column;
+}
+
+.navbar {
+	font-size: 20px;
+}
+
+.footer {
+	position: absolute;
+	/*bottom: 0;*/
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+	background-color: #f5f5f5;
+}
+
+.footer nav {
+	margin-bottom: 0;
+	width: 100%;
+}
+
+/* Colors */
+body {
+	background-color: #fff;
+	color: #635045;
+}
+
+.navbar.navbar-default {
+	color: #6aa84f;
+	background-color: white;
+}
+
+h1,
+h2,
+.text-primary {
+	color: #6e7f29;
+}
+
+a {
+	color: #337ab7;
+	color: #6e7f29;
+}
+.padme {
+	padding-right: 10px;
+	width: auto;
+	max-height: 250px;
+}
+.nav > .nav-header {
+    cursor: default;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.logo{
+	margin: 0;
+	height: 150%;
+	position: absolute;
+}
+
+.carousel-caption {
+	background-color: rgb(1,1,1);
+	background-color: rgba(255, 255, 255, 0.7);
+	color: rgb(80,80,80);
+	text-shadow: none;
+	left: auto;
+	right: auto;
+	max-height: 50%;
+}
+.lead {
+	font-size: 20px;
+}
+.btn-wordpress {
+	background-color: #21759b;
+}
+.fa {
+	color: white;
+}
+.underline{ text-decoration:underline; }
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.btn-social-icon > span{
+	background-color: #6aa84f;
+}
+
+#imagesCarousel {
+	width: 100%;
+	height: calc(100vh - 70px);
+	margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+	#imagesCarousel {
+		height: 50vh;
+	}
+	.hide-mobile {
+		display: none;
+	}
+}
+
+@media(min-width: 767px) {
+	.hide-nonmobile {
+		display: none;
+	}
+}
+
+
+.carousel-inner {
+	height: 100%;
+}
+
+.carousel-inner > .item {
+	height: 100%;
+}
+
+.carousel-caption {
+	width: 100%;
+}
+
+.carousel-inner > .item > img {
+	position: relative;
+	left: 50%;
+	transform: translate(-50%,0);
+}
+
+.carousel-inner > .item > img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+}
+
+.carousel-indicators li {
+	border: 1px solid #6aa84f; 
+}
+
+.nav-social {
+	display: flex;
+	flex-direction: row;
+}
+
+.nav-social li{
+	padding-right: 10px;
+	margin: auto;
+}
+.carousel-indicators li.active {
+	width: 12px;
+	background-color: #6aa84f;
+}
+
+@media (min-width: 992px) {
+	.carousel-inner > .item > img.top-0 { top: 0; transform: translate(-50%, 0); }
+	.carousel-inner > .item > img.top-10 { top: 10%; }
+	.carousel-inner > .item > img.top-20 { top: 20%; }
+	.carousel-inner > .item > img.top-30 { top: 30%; }
+	.carousel-inner > .item > img.top-40 { top: 40%; }
+	.carousel-inner > .item > img.top-50 { top: 50%; }
+	.carousel-inner > .item > img.top-60 { top: 60%; }
+	.carousel-inner > .item > img.top-70 { top: 70%; }
+	.carousel-inner > .item > img.top-80 { top: 80%; }
+	.carousel-inner > .item > img.top-90 { top: 90%; }
+	.carousel-inner > .item > img.top-100 { 
+		top: 100%;
+    transform: translate(-50%,-100%);
+	}
+}
+hr {
+	border: none;
+	height: 2px;
+	background-color: #6aa84f;
+}
+
+.navbar-brand {
+	font-size: 30px;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+}
+
+nav > div > ul {
+	flex-direction: column;
+	display: flex;
+	text-align: center;
+}
+
+@media(min-width: 767px) {
+  #center-ul {
+  	width: 100%;
+  	display: flex;
+  	justify-content: center;
+  	margin: auto;
+  	margin-left: auto;
+  }
+}
