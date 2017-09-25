@@ -9,7 +9,7 @@
 <?php include "includes/nav.php" ;?>
 
 	<div class="container">
-		<h1 class="text-primary">Donate</h1>
+		<h1 class="text-primary">Donate Here</h1>
 		<p class="lead">Donate page coming soon!</p>
 	</div>
 
