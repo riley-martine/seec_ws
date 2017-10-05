@@ -10,7 +10,7 @@
 
 	<div class="container">
 		<h1 class="text-primary">Donate Here</h1>
-		<p class="lead">Donate page coming soon!</p>
+		<p class="lead">Donate page really coming soon!</p>
 	</div>
 
 
