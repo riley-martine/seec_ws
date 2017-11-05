@@ -25,9 +25,20 @@
 				<li data-target='#imagesCarousel' data-slide-to='6'></li>
 				<li data-target='#imagesCarousel' data-slide-to='7'></li>
 				<li data-target='#imagesCarousel' data-slide-to='8'></li>
+				<li data-target='#imagesCarousel' data-slide-to='9'></li>
+				<li data-target='#imagesCarousel' data-slide-to='10'></li>
 			</ol>
 
 			<div class='carousel-inner' role='listbox'>
+				<div class='item'>
+					<img class='d-block img-fluid' src='static/img/home/seecfieldday.jpg'>
+					<div class="carousel-caption hidden-xs"><span>
+					 Members of our NCSSM SEEC branch pose for a group picture after an incredible SEEC Field day!
+					</span></div>
+				</div>
+
+
+				
 				<div class='item'>
 					<img class='d-block img-fluid' src='static/img/home/homeSlider1.jpg'>
 					<div class="carousel-caption hidden-xs"><span>
@@ -37,7 +48,7 @@
 
 
         <div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/homeSlider2.jpg'>
+					<img class='d-block img-fluid' src='static/img/home/2016photography.jpg'>
 					<div class="carousel-caption hidden-xs"><p>Photograph by Samantha Ixcot from Hialeah, FL, winner of the 2016 SEEC Nature Photography Contest.</p></div>
 				</div>
 				 
@@ -69,13 +80,13 @@
 				</div>
 
 				<div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/homeSlider7.jpg'>
+					<img class='d-block img-fluid' src='static/img/home/flowerreplacement.jpg'>
 					<div class="carousel-caption hidden-xs"><p>
 					SEEC is a strong proponent of going outside whenever you have the chance! <a href="http://www.huffingtonpost.com/2014/06/22/how-the-outdoors-make-you_n_5508964.html" target=\"_blank\">Here’s proof that nature truly makes us healthier.</a></p></div>
 				</div>
 
 				<div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/homeSlider8.jpg'>
+					<img class='d-block img-fluid' src='static/img/home/higherqualitymatthew.jpg'>
 					<div class="carousel-caption hidden-xs"><p>Farms in Eastern North Carolina continue to recover from the devastating effects of Hurricane Matthew. The neglected issue of Eastern North Carolina’s water quality poses a danger to residents, as the amount of animal waste from farms that contaminated rivers and other bodies of water was largely underestimated.</p></div>
 				</div>
 
