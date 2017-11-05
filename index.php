@@ -54,12 +54,12 @@
 				 
 				<div class='item'>
 					<img class='d-block img-fluid' src='static/img/home/websiteslider.jpg'>
-					<div class="carousel-caption hidden-xs"><p>"SEEC partnered with the Dogwood Alliance for Storytelling Night at Motorco Music Hall on July 27th, helping to bring together the community with a fun and informative time.</p></div>
+					<div class="carousel-caption hidden-xs"><p>SEEC partnered with the Dogwood Alliance for Storytelling Night at Motorco Music Hall on July 27th, helping to bring together the community with a fun and informative time. <a href="https://ncseec.wordpress.com/2017/09/09/stories-happen-in-forests-a-live-storytelling-event/" target=\"_blank\">Read more about Storytelling Night here!</a></p></div>
 				</div>
 
 				<div class='item'>
 					<img class='d-block img-fluid' src='static/img/home/homeSlider3.jpg'>
-					<div class="carousel-caption hidden-xs"><p>Founder and Executive President, Kenneth Xu, jokingly hugs his favorite tree. <a href="https://www.northcarolina.edu/news/2016/11/His-Own-Environment" target=\"_blank\">Read more about Kenneth’s passion for environmentalism.</a></p></div>
+					<div class="carousel-caption hidden-xs"><p>Founder and Past Executive President, Kenneth Xu, jokingly hugs his favorite tree. <a href="https://www.northcarolina.edu/news/2016/11/His-Own-Environment" target=\"_blank\">Read more about Kenneth’s passion for environmentalism.</a></p></div>
 				</div>
 
 				<div class='item'>

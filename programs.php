@@ -35,7 +35,7 @@
                     <h3 class="text-center">Events</h3>
                     <ul class="list-unstyled text-center">
                       <li>Stuart Pimm: NCSSM Lecture Hall on November 30th, 2016 at 5 PM</li>
-                      <li>Jedediah Purdy: NCSSM Library; date and time TBA</li>
+                      <li>Jedediah Purdy: NCSSM Library</li>
                    </ul>
 
                    <div class="container-fluid">
@@ -43,7 +43,7 @@
                      <div class="row">
                          <img class="img-responsive pull-left padme" src="static/img/programs/colloquiumSeries/colloquiumSeries2.jpg" alt=""/>
                        <p>
-                         Stuart Pimm is a world leader in the study of present day extinctions and what can be done to prevent them. His research covers the reasons why species become extinct, how fast they do so, the global patterns of habitat loss and species extinction and, importantly, the management consequences of this research. Pimm received his BSc degree from Oxford University in 1971 and his Ph.D from New Mexico State University in 1974. Pimm is the author of over 270 scientific papers and four books. The Institute of Scientific Information has ranked him as one of the most highly cited environmental scientists for over a decade. Pimm wrote the highly acclaimed assessment of the human impact to the planet: The World According to Pimm: a Scientist Audits the Earth in 2001. His commitment to the interface between science and policy has lead to his testimony to both House and Senate Committees on the re-authorization of the Endangered Species Act. He was worked and taught in Africa for nearly 20 years on elephants, most recently lions — through National Geographic’s Big Cats Initiative — but always on topics that relate to the conservation of wildlife and the ecosystems on which they depend. Other research areas include the Everglades of Florida and tropical forests in South America, especially the Atlantic Coast forest of Brazil and the northern Andes — two of the world's ‘hotspots’ for threatened species. His international honours include the Tyler Prize for Environmental Achievement(2010), the Dr. A.H. Heineken Prize for Environmental Sciences from the Royal Netherlands Academy of Arts and Sciences (2006), the Society for Conservation Biology’s Edward T. LaRoe III Memorial Award (2006), and the Marsh Award for Conservation Biology, from the Marsh Christian Trust (awarded by the Zoological Society of London in 2004). Sigma Xi, The Scientific Research Society, awarded him the William Proctor Prize for Scientific Achievement in 2007.
+                         Stuart Pimm is a world leader in the study of present day extinctions and what can be done to prevent them. His research covers the reasons why species become extinct, how fast they do so, the global patterns of habitat loss and species extinction, and the management consequences of this research. Pimm received his BSc degree from Oxford University in 1971 and his Ph.D from New Mexico State University in 1974. Pimm is the author of over 270 scientific papers and four books. The Institute of Scientific Information has ranked him as one of the most highly cited environmental scientists for over a decade. Pimm wrote the highly acclaimed assessment of the human impact to the planet: The World According to Pimm: a Scientist Audits the Earth in 2001. His commitment to the interface between science and policy has lea to his testimony to both House and Senate Committees on the re-authorization of the Endangered Species Act. He worked and taught in Africa for nearly 20 years on elephants, most recently lions — through National Geographic’s Big Cats Initiative — but always on topics that relate to the conservation of wildlife and the ecosystems on which they depend. Other research areas include the Everglades of Florida, tropical forests in South America, and the Atlantic Coast forest of Brazil and the northern Andes — two of the world's ‘hotspots’ for threatened species. His international honours include the Tyler Prize for Environmental Achievement (2010), the Dr. A.H. Heineken Prize for Environmental Sciences from the Royal Netherlands Academy of Arts and Sciences (2006), the Society for Conservation Biology’s Edward T. LaRoe III Memorial Award (2006), and the Marsh Award for Conservation Biology, from the Marsh Christian Trust (awarded by the Zoological Society of London in 2004). Sigma Xi, The Scientific Research Society, awarded him the William Proctor Prize for Scientific Achievement in 2007.
                        </p>
                      </div>
                    </div>
@@ -53,7 +53,7 @@
                      <div class="row">
                          <img class="img-responsive pull-left padme" src="static/img/programs/colloquiumSeries/colloquiumSeries3.jpg" alt=""/>
                        <p>
-                         Jedediah Purdy teaches constitutional, environmental, and property law and writes in all of these areas. He also teaches legal theory and writes on issues at the intersection of law and social and political thought. He is the author of four books, including a trilogy on American political identity, which concluded with A Tolerable Anarchy (2009), all from Knopf. The Meaning of Property appeared in 2010 from Yale University Press. He has published many essays in publications including The Atlantic Monthly, The New York Times Op Ed Page and Book Review, Die Zeit, and Democracy Journal, and his legal scholarship has appeared in the Yale Law Journal, University of Chicago Law Review, Duke Law Journal, Cornell Law Review, and Harvard Environmental Law Review, among others. He is now at work on After Nature: A Politics for the Anthropocene, under contract with Harvard University Press. Purdy graduated from Harvard College, summa cum laude, with an A.B. in Social Studies, and received his J.D. from Yale Law School. He clerked for Judge Pierre N. Leval of the Second U.S. Circuit Court of Appeals in New York City and has been a fellow at the Berkman Center for Internet and Society at Harvard Law School, an ethics fellow at Harvard University, and a visiting professor at Yale Law School, Harvard Law School, Virginia Law School, and the Georgetown University Law Center.
+                         Jedediah Purdy teaches and writes constitutional, environmental, and property law. He also teaches legal theory and writes on issues at the intersection of law and social and political thought. He is the author of four books, including a trilogy on American political identity, which concluded with A Tolerable Anarchy (2009), all from Knopf. The Meaning of Property appeared in 2010 from Yale University Press. He has published many essays in publications including The Atlantic Monthly, The New York Times Op Ed Page and Book Review, Die Zeit, and Democracy Journal, and his legal scholarship has appeared in the Yale Law Journal, University of Chicago Law Review, Duke Law Journal, Cornell Law Review, and Harvard Environmental Law Review. He is now working on After Nature: A Politics for the Anthropocene, under contract with Harvard University Press. Purdy graduated from Harvard College, summa cum laude, with an A.B. in Social Studies, and received his J.D. from Yale Law School. He clerked for Judge Pierre N. Leval of the Second U.S. Circuit Court of Appeals in New York City and has been a fellow at the Berkman Center for Internet and Society at Harvard Law School, an ethics fellow at Harvard University, and a visiting professor at Yale Law School, Harvard Law School, Virginia Law School, and the Georgetown University Law Center.
                        </p>
                      </div>
                    </div>
@@ -72,7 +72,7 @@
                         SEEC prides itself on an all-inclusive mission, as we aim to improve the environment for the benefit of all people, regardless of race, gender, or sexual identity. SEEC serves as a model of the benefits that geographical diversity, gender diversity, socioeconomic
                         diversity, and racial diversity bring to nonprofit work. With a diverse board of directors (with officers from Raleigh, Durham, Chapel Hill, Weddington, Mooresville, Morrisville, etc.) and a wide range of projects targeting a wide
                         range of people, we are committed to promoting diversity in all of its forms, through representation in both our leadership and the youth that we serve. For example, as part of our Diversity in STEM initiative, SEEC is partnering
-                        with El Centro Hispano to hold a study book drive to aid minority students in the Triangle as well as to save paper and trees. SEEC has also garnered support from the Chapel Hill-Carrboro NAACP and the United Church of Chapel Hill.
+                        with El Centro Hispano to hold a study book drive to aid minority students in the Triangle, as well as to save paper and trees. SEEC has also garnered support from the Chapel Hill-Carrboro NAACP and the United Church of Chapel Hill.
                     </p>
                   </div>
                 </div>
@@ -81,22 +81,35 @@
 
             <div class="panel" id="grassrootsCampaigns">
                 <div class="panel-heading"><strong>Grassroots Campaigns</strong></div>
-                <div class="panel-body">
+		<div class="panel-body">
                     <p>
                         Student-led campaigns remain central to SEEC’s mission of spurring environmental change through education from the grassroots level. If you wish to become a direct contributor to our cause, then look to become involved in the many environmental campaigns
                         that SEEC launches throughout the year. Help us with curriculum development, protest delegations, or fundraising!
                     </p>
-
-
-                </div>
-                <div class="panel-body">
+		<div class="panel-body">
                   <img class="img-responsive" src="static/img/programs/grassrootsCampaigns/grassrootsCampaigns1.jpg" alt=""/>
                   <p>
                     The largest branch of the Student Environmental Education Coalition is stationed at the North Carolina School of Science and Mathematics. This chapter focuses on igniting change within Durham, NC through alternative energy advocacy and education. It is currently working with local public schools to raise awareness about the benefits and advantages of solar energy use, most notably through informations sessions at K-12 schools. Along with various fundraisers and interactive activities, this branch hosts talks and seminars from leading environmentalists in order to educate future scientists about critical environmental issues. The overall goal of the NCSSM group is to stimulate grassroots change by targeting key demographics and offering a multitude of programs to educate and inspire local youth through unique advocacy methods.
                   </p>
                 </div>
 
+		<h3 class="text-center">Call-In Day to Governor Cooper</h3>
+		<div class="container-fluid">
+                     <div class="row">
+                         <img class="img-responsive pull-left padme" src="static/img/programs/grassrootsCampaigns/callinday.jpg" alt=""/>
+                       <p>
+                         On September 26, 2017, hundreds of students at NCSSM participated in the NCSSM SEEC branch event of calling Governor Cooper's office in order to demand that he revoke Enviva's permit to build another pellet mill in Richmond County. This wood pellet mill would result in the mill clearcutting nearly 50 acres of forest a day, while releasing harmful air pollutants that would devestate the local community's health. After seeing how past natural disasters can be more damaging due to climate change, it is important for us to take a stand to harmful actions against the environment. Governor Cooper has promised to uphold the Paris Climate Agreement created by the UN, and in order to do so, it is necessary to help prevent environmental injustices we see occurring in North Carolina. Enviva received their permit for building the wood pellet mill without a public hearing, completely disregarding the opinion of the community that will be impacted, and there is a current lawsuit challenging the permit. During the day, hundreds of students at NCSSM called Governor Cooper in order to bring awareness to this issue and protest the building of Enviva's wood pellet mill. We partnered with Dogwood Alliance for this event! <a href="https://www.dogwoodalliance.org/call-cooper/">Learn more about about how this event occurred from Dogwood Alliance!</a> </p>
+                     </div>
+		</div>
+	      <h3 class="text-center">SEEC Podcasts are Up!</h3>
+	     <div class="panel-body">
+                  <img class="img-responsive" src="static/img/programs/grassrootsCampaigns/podcast.jpg" alt=""/>
+                  <p>
+                    The NCSSM branch of SEEC has created the brand-new Student Environmental Education Podcast. "SEEP" now releases podcasts about environmental issues that particularly occur in NC, such as overpopulation, water pollution, and invasive species. They have recently released their first podcast on these issues and are continuing to work hard in order to produce more. "SEEP" hopes to expand their impact and basis around the area by discussing issues we see in society and ways that active citizens can get involved. <a href="http://www.seep-podcast.podomatic.com">Listen to some of the podcasts here!</a> </p>
+             </div>
+
             </div>
+	</div>
 <!--
             <div class="panel" id="scientificResearch">
                 <div class="panel-heading"><strong>Scientific Research</strong></div>
@@ -134,14 +147,11 @@
                   <img class="img-responsive" src="static/img/programs/serviceLearning/serviceLearning1.jpg" alt="" />
 
                   <p>
-                    Service Learning First-hand service learning is one of the best ways for youth to understand core issues affecting the environment. SEEC offers ample opportunities for community members of all ages to gain valuable perspectives from environmental
+                    Service Learning first-hand is one of the best ways for youth to understand core issues affecting the environment. SEEC offers ample opportunities for community members of all ages to gain valuable perspectives from environmental
                     service and, of course, to benefit their own communities. We are currently focusing on building pollinator gardens in the Triangle to create more natural habitats for pollinators like butterflies and bees, which are not only important
                     to our ecosystems, but also contribute to the production of 70% of crops in our economy! In the past, we have offered service learning opportunities through our annual summer youth camp as well as through assisting in community projects
                     such as the annual Carolina Campus Community Garden and Chapel Hill High School Green Tigers Garden. As part of our fellowship program, we are also willing to provide seed funding for novel project ideas that youth volunteers bring
-                    to us. Contact us to see whether grants from SEEC are currently available or to gain help from Kenneth Xu with successfully applying for grants.
-                  </p>
-                  <p>
-                    In the past, we have offered service learning opportunities through our annual summer youth camp as well as through assisting in community projects such as the annual Carolina Campus Community Garden and Chapel Hill High School Green Tigers Garden. As part of our fellowship program, we are also willing to provide seed funding for novel project ideas that youth volunteers bring to us. Contact us to see whether grants from SEEC are currently available or to gain help from Kenneth Xu with successfully applying for grants.
+                    to us. <a href="https://www.facebook.com/ncseec/">Contact us and check out our Facebook page</a> to see whether grants from SEEC are currently available or to gain help from Vincent Xia with successfully applying for grants.
                   </p>
                 </div>
             </div>
@@ -153,8 +163,18 @@
 
                   <p>
                     Want to socialize with like-minded teenagers in the Triangle, and perhaps even adult environmental leaders? SEEC hosts periodic social events in central North Carolina, with free sustainably-grown food provided by local small businesses.
-                    Follow our Facebook page for updates.
+                    Follow our Facebook page for updates <a href="https://www.facebook.com/ncseec/">here</a>!
                   </p>
+		 <div class="container-fluid">
+                     <h3 class="text-center">SEEC Field Day</h3>
+                     <div class="row">
+                         <img class="img-responsive pull-left padme" src="static/img/programs/socialEvents/seecfieldday.jpg" alt=""/>
+                       <p>
+			On September 9, 2017, the SEEC branch at NCSSM held their first field day! Hundreds of students from NCSSM came to participate in learning about environmental literacy and to promote environmental action. Through recycling and trivia games, raffles, entertaining activites, and more, students enjoyed an afternoon of excitement, learning about environmental education. This event has caused more students at NCSSM to join the SEEC branch in order to participate in environmental activism. <a href="https://ncseec.wordpress.com/2017/09/21/seec-field-day/">Learn more about SEEC's first field day here!</a>
+		       </p>
+		     </div>
+		</div>
+                    
                 </div>
             </div>
 
@@ -169,9 +189,9 @@
                     sustainability, and more.
                   </p>
                   <p>
-                    Today, Jenny Liu attends Harvard University and Jenny Liu attends the Wharton School of Business at the University of Pennsylvania. In their absence, SEEC has led and will continue to lead the NatureWay Summer
+                    Today, Jenny Liu attends Harvard University and Frances Liu attends the Wharton School of Business at the University of Pennsylvania. In their absence, SEEC has led and will continue to lead the NatureWay Summer
                     Camp. Building on their work, last year SEEC began to actively recruit underrepresented minorities in STEM and underprivileged children in order to reach all K-5 students in our community. In addition, STEM-related fields have become
-                    a larger focus in the curriculum due to interest from both students and parents. SEEC has also recently won a grant from the Walt Disney Company that allows NatureWay to significantly improve the quality of its science activities!
+                    a larger focus in the curriculum due to interest from both students and parents. SEEC has also recently won a grant from the Walt Disney Company that allows NatureWay to significantly improve the quality of its science activities! <a href="http://www.ncseec.org/seec/natureway.php">Learn more about NatureWay Summer Camp & How to Register</a>
                   </p>
                 </div>
             </div>
