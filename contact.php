@@ -11,7 +11,7 @@
 	<div class="container">
 		<h1 class="text-primary">Contact</h1>
 
-		<form class="form-horizontal" role="form" method="post" action="https://formspree.io/contact@envirocoalition.org">
+		<form class="form-horizontal" role="form" method="post" action="https://formspree.io/contact@ncseec.org">
 			<div class="form-group">
 				<label for="name" class="col-sm-2 control-label">Name</label>
 				<div class="col-sm-10" >
@@ -50,7 +50,7 @@
 				</div>
 			</div>
 		</form>
-		<p> For comments or questions, please fill out the above form or email us directly at "<a href="mailto:contact@envirocoalition.org">contact@envirocoalition.org</a>"! </p>
+		<p> For comments or questions, please fill out the above form or email us directly at "<a href="mailto:contact@ncseec.org">contact@ncseec.org</a>"! </p>
 	</div>
 
 

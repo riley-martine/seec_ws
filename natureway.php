@@ -11,7 +11,7 @@
 	<div class="container">
 	<div class="alert alert-danger alert-dismissable">
 		<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-		Registration for NatureWay 2017 is now closed. We hope you can join us next year!
+		Registration for NatureWay 2018 will be opening soon. We hope you can join us! Contact us for more information!
 	</div>
 			<hr>
 		<div class="container">

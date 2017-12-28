@@ -25,11 +25,18 @@
 				<li data-target='#imagesCarousel' data-slide-to='6'></li>
 				<li data-target='#imagesCarousel' data-slide-to='7'></li>
 				<li data-target='#imagesCarousel' data-slide-to='8'></li>
-				<li data-target='#imagesCarousel' data-slide-to='9'></li>
-				<li data-target='#imagesCarousel' data-slide-to='10'></li>
 			</ol>
 
 			<div class='carousel-inner' role='listbox'>
+
+				<div class='item'>
+					<img class='d-block img-fluid' src='static/img/home/flowerreplacement.jpg'>
+					<div class="carousel-caption hidden-xs"><p>
+					Sign up for SEEC's first 2018 Photography & Writing Competition! It is open to all K-12 students with monetary prizes! The deadline is March 15, 2018!
+				 <a href="/writingcompetition.php" target=\"_blank\">Click here for more information!</a>
+					</p></div> 
+				</div>
+
 				<div class='item'>
 					<img class='d-block img-fluid' src='static/img/home/seecfieldday.jpg'>
 					<div class="carousel-caption hidden-xs"><span>
@@ -47,7 +54,7 @@
 				</div>
 
 
-        <div class='item'>
+        			<div class='item'>
 					<img class='d-block img-fluid' src='static/img/home/2016photography.jpg'>
 					<div class="carousel-caption hidden-xs"><p>Photograph by Samantha Ixcot from Hialeah, FL, winner of the 2016 SEEC Nature Photography Contest.</p></div>
 				</div>
@@ -58,8 +65,8 @@
 				</div>
 
 				<div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/homeSlider3.jpg'>
-					<div class="carousel-caption hidden-xs"><p>Founder and Past Executive President, Kenneth Xu, jokingly hugs his favorite tree. <a href="https://www.northcarolina.edu/news/2016/11/His-Own-Environment" target=\"_blank\">Read more about Kenneth’s passion for environmentalism.</a></p></div>
+					<img class='d-block img-fluid' src='static/img/home/kennethmeetscooper.jpg'>
+					<div class="carousel-caption hidden-xs"><p>Founder and Past Executive President, Kenneth Xu, met Governor Roy Cooper for SEEC! <a href="https://www.northcarolina.edu/news/2016/11/His-Own-Environment" target=\"_blank\">Read more about Kenneth’s passion for environmentalism.</a></p></div>
 				</div>
 
 				<div class='item'>
@@ -73,26 +80,8 @@
 				</div>
 
 				<div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/homeSlider6.jpg'>
-					<div class="carousel-caption hidden-xs"><p>
-					Keshav is from Cary, NC, and is extremely dedicated to helping teach people about the environment and how to protect it! He has helped out with various SEEC fundraisers, activism events, outreach, and more!
-					</p></div>
-				</div>
-
-				<div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/flowerreplacement.jpg'>
-					<div class="carousel-caption hidden-xs"><p>
-					SEEC is a strong proponent of going outside whenever you have the chance! <a href="http://www.huffingtonpost.com/2014/06/22/how-the-outdoors-make-you_n_5508964.html" target=\"_blank\">Here’s proof that nature truly makes us healthier.</a></p></div>
-				</div>
-
-				<div class='item'>
-					<img class='d-block img-fluid' src='static/img/home/higherqualitymatthew.jpg'>
-					<div class="carousel-caption hidden-xs"><p>Farms in Eastern North Carolina continue to recover from the devastating effects of Hurricane Matthew. The neglected issue of Eastern North Carolina’s water quality poses a danger to residents, as the amount of animal waste from farms that contaminated rivers and other bodies of water was largely underestimated.</p></div>
-				</div>
-
-				<div class='item'>
-					<img class='d-block img-fluid top-0' src='static/img/home/homeSlider9.jpg'>
-					<div class="carousel-caption hidden-xs"><p>At the 2016 NatureWay Charity Summer Camp, some campers created their own compost bins as a guided science project. Through composting, kids gain an awareness of their roles in the world as they learn about how waste is produced and how it could be reduced.</p></div>
+					<img class='d-block img-fluid top-0' src='static/img/home/natureway2017.jpg'>
+					<div class="carousel-caption hidden-xs"><p>At the 2017 NatureWay Charity Summer Camp, the current SEEC president, Vincent Xia, is showed eager campers a chemical experiment! Sign up for 2018 NatureWay Charity Summer Camp will be posted soon!.</p></div>
 				</div>
 
 			</div>
