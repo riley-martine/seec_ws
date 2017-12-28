@@ -12,6 +12,7 @@
 .navbar-inverse.nav-upper .navbar-upper > li > a {
   color: #777;
 }
+
 @media (min-width: 768px) {
   .navbar.navbar-lower .navbar-nav {
     margin-left: 100px;
@@ -82,6 +83,10 @@ body {
 	background-color: white;
 }
 
+.navbar .navbar-nav>li>a:hover{
+	color: #006400;
+}
+
 h1,
 h2,
 .text-primary {
@@ -92,6 +97,7 @@ a {
 	color: #337ab7;
 	color: #6e7f29;
 }
+
 .padme {
 	padding-right: 10px;
 	width: auto;

@@ -11,7 +11,7 @@
 <div class='container ' id='about'>
 		<div class="">
 			<h2 class="text-primary text-center">About Us</h2>
-			<p class="lead">The Student Environmental Education Coalition (SEEC) was founded by Kenneth Xu while in high school, after he was inspired to combat the effects of scientific ignorance on the environment. Based in North Carolina, SEEC is a 501(c)(3) nonprofit organization led by a 10-member board of directors composed entirely of students.</p>
+			<p class="lead">The Student Environmental Education Coalition (SEEC) was founded by Kenneth Xu while in high school, after he was inspired to combat the effects of scientific ignorance on the environment. Based in North Carolina, SEEC is a 501(c)(3) nonprofit organization led by a 10-member board of directors composed entirely of high students.</p>
 			<br>
 		</div>
 		<div class="">
