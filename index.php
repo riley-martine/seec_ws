@@ -33,7 +33,7 @@
 					<img class='d-block img-fluid' src='static/img/home/flowerreplacement.jpg'>
 					<div class="carousel-caption hidden-xs"><p>
 					Sign up for SEEC's first 2018 Photography & Writing Competition! It is open to all K-12 students with monetary prizes! The deadline is March 15, 2018!
-				 <a href="/writingcompetition.php" target=\"_blank\">Click here for more information!</a>
+				 <a href="/seec/writingcompetition.php" target=\"_blank\">Click here for more information!</a>
 					</p></div> 
 				</div>
 
