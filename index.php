@@ -80,7 +80,7 @@
 				</div>
 
 				<div class='item'>
-					<img class='d-block img-fluid top-0' src='static/img/home/natureway2017.jpg'>
+					<img class='d-block img-fluid top-0' src='static/img/home/natureway2017.JPG'>
 					<div class="carousel-caption hidden-xs"><p>At the 2017 NatureWay Charity Summer Camp, the current SEEC president, Vincent Xia, is showed eager campers a chemical experiment! Sign up for 2018 NatureWay Charity Summer Camp will be posted soon!.</p></div>
 				</div>
 

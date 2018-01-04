@@ -27,4 +27,8 @@
 	<a href="natureway.php">NatureWay</a>
   </li>
 
+  <li id="writing competition">
+	<a href="writingcompetition.php">Writing & Photography Competition</a>
+  </li>
+
 </ul>
