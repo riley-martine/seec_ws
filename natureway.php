@@ -11,7 +11,7 @@
 	<div class="container">
 	<div class="alert alert-danger alert-dismissable">
 		<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-		Registration for NatureWay 2018 will be opening soon. We hope you can join us! Contact us for more information!
+		Registration for NatureWay 2018 will be opening soon. We hope you can join us! The dates are August 6-10, 2018 at East Chapel Hill High School!
 	</div>
 			<hr>
 		<div class="container">
@@ -51,7 +51,7 @@
 			</div>
 			<div class="col-md-6">
 				<h2>When and where is it?</h2>
-				<p>NatureWay will be held from August 7-11 (Monday-Friday, 9 AM-5 PM) at East Chapel Hill High School. Parents can drop off their children after 8:45 AM and pick them up before 5:15 PM.</p>
+				<p>NatureWay will be held from August 6-10 (Monday-Friday, 9 AM-5 PM) at East Chapel Hill High School. Parents can drop off their children after 8:45 AM and pick them up before 5:15 PM.</p>
 			</div>
 
 		</div>
