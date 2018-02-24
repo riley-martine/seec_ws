@@ -18,14 +18,15 @@
 	</p>
 		<ol>
 				<li>The piece of work must be related to environmental education, science, or activism.</li>
-				<li>This competition is open for all students in any part of the United States.</li>
-				<li>This competition is only open for students from grades kindergarten to 12th grade.</li>
-				<li>This competition will be divided into three age divisions: elementary school students,
-					middle school students, and high school students.</li>
+				<li>This competition is open for all students (must be submitted in English).</li>
+				<li>This competition is only open for students from grades 9th to 12th grade.</li>
 				<li>There are two writing competition categories: prose and poetry.</li>
 				<li>There is only one category for photography.</li>
 				<li>There will be monetary awards for winners, and monetary value will be determined for each category
 					depending on the number of participants.</li>
+				<li>If you did not win an award, we will not contact you (we will also be posting winners online).</li>
+				<li>Judges will contain North Carolina School of Science and Math & university educators.</li>
+				<li>Work will not be accepted if it has one’s name on it. Name can only be entered on form of submission.</li>
 		</ol>
 		<p>
 		If you have any questions, please email us at
